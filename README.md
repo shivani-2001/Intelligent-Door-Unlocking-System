@@ -11,6 +11,9 @@
     <li><strong>Emergency Feature</strong>: In case of emergencies, the system provides a quick unlock mechanism to ensure safety.</li>
 </ul>
 
+<h2>Future Proposal</h2>
+<p>To further enhance security and convenience, we are exploring the integration of <strong>facial and voice recognition</strong> technologies. This addition will allow for a more seamless and secure verification process, enabling users to unlock their doors through facial recognition or voice commands. These features are in the proposal stage.</p>
+
 <h2>Hardware Requirements</h2>
 <p>Microcontroller (e.g., Arduino, Raspberry Pi, In our case we used Arduino), RFID Reader Module, IR Receiver and Remote, Ultrasonic Distance Sensor, Servo Motor (for lock mechanism), Power Supply, Miscellaneous: Cables, Breadboard, etc.</p>
 
@@ -22,7 +25,7 @@
 <p>- <strong>Distance Unlock</strong>: Simply approach the door. If you are within the authorized distance range, the door will unlock automatically.<br>
 - <strong>RFID Unlock</strong>: Swipe your RFID-tagged device near the reader to unlock the door.<br>
 - <strong>IR Remote Unlock</strong>: Use the provided IR remote to send an unlock signal to the system.<br>
-- <strong>Emergency Unlock</strong>: Activate the emergency unlock feature through a specific button on the IR remote or a dedicated mechanism (detailed in the <code>emergency_feature_guide.md</code>).</p>
+- <strong>Emergency Unlock</strong>: Activate the emergency unlock feature through a specific button on the IR remote or a dedicated mechanism.</p>
 
 
 <h2>Acknowledgments</h2>
